@@ -14,3 +14,4 @@ God will tell you—I used magic to make it run.
 3.Click the clock.
 
 4.Watch it run.
+![image](https://github.com/bauwao/TOMORIN/blob/main/Sequence%2007.00_21_03_16.Still001.png)
