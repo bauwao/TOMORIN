@@ -1,0 +1,9 @@
+{
+  "quota": {
+    "enabled": false,
+    "limit": 40000000
+  },
+  "debug": {
+    "doPackageLogging": false
+  }
+}
